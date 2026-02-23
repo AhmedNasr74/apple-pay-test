@@ -4,7 +4,7 @@
             countryCode: 'EG',
             currencyCode: 'EGP',
             supportedNetworks: ["visa", "masterCard", "meeza"],
-            merchantCapabilities: ["3DS", "debit", "credit"],
+            merchantCapabilities: ["supports3DS", "debit", "credit"],
             // Dynamically set the sub-merchant's name here
             total: {
                 label: "sahl",
