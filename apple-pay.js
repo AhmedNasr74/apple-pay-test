@@ -7,8 +7,8 @@
             merchantCapabilities: ["3DS", "debit", "credit"],
             // Dynamically set the sub-merchant's name here
             total: {
-                label: subMerchantName,
-                amount: amount
+                label: "sahl",
+                amount: 1400
             },
         };
 
